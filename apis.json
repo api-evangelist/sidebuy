@@ -1,0 +1,65 @@
+{
+    "name": "Sidebuy",
+    "description": "Sidebuy is a data-driven influencer marketing platform that matches brands with relevant influencers who create original branded content and amplify its outreach through their engaged audiences. Sidebuy intelligently tracks, measures and reports the pe...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1150-sidebuy.jpg",
+    "tags": [
+        "aggregator",
+        "coupons",
+        "deals",
+        "have api",
+        "marketplaces",
+        "oakland",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sidebuy\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sidebuy",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1150-sidebuy.jpg",
+            "humanURL": "http:\/\/sidebuy.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sidebuy-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sidebuy-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/sidebuy.com\/api"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sidebuy"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/sidebuy"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Sidebuy"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sidebuy_"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/sidebuydeals"
+        }
+    ]
+}
